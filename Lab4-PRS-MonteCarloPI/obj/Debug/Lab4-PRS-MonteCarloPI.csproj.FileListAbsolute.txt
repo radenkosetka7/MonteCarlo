@@ -1,0 +1,7 @@
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\obj\Debug\Lab4-PRS-MonteCarloPI.csprojAssemblyReference.cache
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\obj\Debug\Lab4-PRS-MonteCarloPI.csproj.CoreCompileInputs.cache
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\bin\Debug\Lab4-PRS-MonteCarloPI.exe.config
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\bin\Debug\Lab4-PRS-MonteCarloPI.exe
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\bin\Debug\Lab4-PRS-MonteCarloPI.pdb
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\obj\Debug\Lab4-PRS-MonteCarloPI.exe
+D:\PRS\Lab4-PRS-MonteCarloPI\Lab4-PRS-MonteCarloPI\obj\Debug\Lab4-PRS-MonteCarloPI.pdb
